@@ -1,7 +1,7 @@
 {
-               "name": "Suhail-MD",
-               "version": "1.0.1",
-               "description": "Multi device whatsapp bot by SuhailTechInfo.",
+               "name": "SILVA-M",
+               "version": "vr 1",
+               "description": "Multi device whatsapp bot by SILVA🪄💋.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SuhailTechInfo/Secktor-bot.git"
+                 "url": "git+https://github.com/Sylivanu/SILVA-M.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/SuhailTechInfo/Secktor-bot/issues"
+                 "url": "https://github.com/Sylivanu/SILVA-M/issues"
                   },
-                 "homepage": "https://github.com/SuhailTechInfo/Secktor-bot#readme"
+                 "homepage": "https://github.com/SuhailTechInfo/SILVA-M#readme"
                   }
